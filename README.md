@@ -5,6 +5,8 @@ El desafío es construir este componente de código QR y lograr que se parezca l
 - HTML
 - CSS
 
+![desktop-preview](https://user-images.githubusercontent.com/112582420/188023098-b8d35293-c5de-4301-8c38-fcd197f0b59f.jpg)
+
 # Guía de Estilo
 
 ## Diseño
